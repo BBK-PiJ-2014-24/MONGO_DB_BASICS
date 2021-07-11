@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.automationShell.linux": "/bin/bash",
+    "runtimeExecutable": "/usr/local/bin/node"
+}
